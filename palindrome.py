@@ -27,6 +27,7 @@ def reversed_function(values):
     else:
         print(f'{values} is not palindrome')
 #values=input("enter value:-")
+
 reversed_function(values)
 
 
